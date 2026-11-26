@@ -1,7 +1,4 @@
 # Daniya Fathima – Developer Portfolio
-
-Pure HTML5, CSS3 and vanilla JavaScript. No frameworks, no build step.
-
 ```
 portfolio/
 ├── index.html
